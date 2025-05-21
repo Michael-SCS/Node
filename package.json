@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Estudiando nodeJS",
+  "keywords": [
+    "Estudio"
+  ],
+  "homepage": "https://github.com/Michael-SCS/Node#readme",
+  "bugs": {
+    "url": "https://github.com/Michael-SCS/Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michael-SCS/Node.git"
+  },
+  "license": "ISC",
+  "author": "Michael Steven Castillo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
