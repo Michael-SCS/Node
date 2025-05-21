@@ -1,0 +1,3 @@
+## 🚀 ¿Qué es esto?
+
+El módulo funciona como una pieza de código reutilizable que puede exportar funciones, objetos o variables para ser utilizadas en otras partes de tu aplicación Node.js. Los módulos permiten organizar el código en archivos separados, facilitando el mantenimiento, la reutilización y la escalabilidad de los proyectos. En Node.js, puedes importar módulos nativos, de terceros o crear los tuyos propios usando `require` o `import`.
